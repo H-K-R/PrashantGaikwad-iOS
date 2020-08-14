@@ -9,13 +9,12 @@
 - 🥅 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love long drives on my Royal Enfield
 - 🤔 I’m looking for help with growing my Youtube channel
-- 📫 How to reach me: [find me here...](https://twitter.com/prashant160593?s=08)
+- 📫 How to reach me: Email - itsmeprashantg@gmail.com
 
-### Connect with me:
+### Details:
 
-[<img align="left" alt="https://www.youtube.com/channel/UCdPBFWPvcWSEgZGPfUF9eyA | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
+[website]: https://twitter.com/prashant160593
+[twitter]: https://twitter.com/prashant160593
+[youtube]: https://www.youtube.com/channel/UCdPBFWPvcWSEgZGPfUF9eyA
+[instagram]: https://www.instagram.com/prashant_iosdev/
+[linkedin]: https://in.linkedin.com/in/prashant-gaikwad-28840178?trk=people-guest_people_search-card
