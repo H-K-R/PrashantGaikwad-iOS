@@ -1,4 +1,4 @@
-### Hi there 👋
+![Optional Text](../main/githubImg.png)
 
 <!--
 **PrashantGaikwad-iOS/PrashantGaikwad-iOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
