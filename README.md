@@ -10,7 +10,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 <p align="center">
 	<a href="https://twitter.com/prashant160593"></a>
