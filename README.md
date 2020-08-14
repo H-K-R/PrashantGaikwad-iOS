@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-	<a href="https://twitter.com/prashant160593"><alt="Twitter"></a>
+	<a href="https://twitter.com/prashant160593"></a>
 </p>
