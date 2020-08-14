@@ -1,5 +1,3 @@
-![Optional Text](/githubImg.png)
-
 [![image](https://github.com/PrashantGaikwad-iOS/PrashantGaikwad-iOS/blob/master/githubImg.png)](https://github.com/PrashantGaikwad-iOS?tab=repositories)
 
 Here are some ideas to get you started:
