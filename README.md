@@ -1,6 +1,6 @@
 [![image](https://github.com/PrashantGaikwad-iOS/PrashantGaikwad-iOS/blob/master/githubImg.png)](https://github.com/PrashantGaikwad-iOS?tab=repositories)
 
-## I'm a Son, Brother, Developer, and Teacher! Not a Husband yet(soon 😛)
+## I'm a Son, Brother, Developer, and Teacher!
 
 - 🔭 I’m currently working on Swift and Java projects
 - 🌱 I’m currently learning Flutter
