@@ -23,3 +23,19 @@
 [instagram]: https://www.instagram.com/prashant_iosdev/
 [linkedin]: https://in.linkedin.com/in/prashant-gaikwad-28840178?trk=people-guest_people_search-card
 
+<br/>
+
+<a href="https://twitter.com/prashant160593">
+  <img align="left" alt="Prashant Gaikwad | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://in.linkedin.com/in/prashant-gaikwad-28840178?trk=people-guest_people_search-card">
+  <img align="left" alt="Prashant's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/prashant_iosdev/">
+  <img align="left" alt="Prashant's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
+
+![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+
+<br />
