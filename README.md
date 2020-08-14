@@ -1,5 +1,7 @@
 ![Optional Text](/githubImg.png)
-
+<!--<h3 align="center">
+![image](https://github.com/PrashantGaikwad-iOS/PrashantGaikwad-iOS/blob/master/githubImg.png)
+</h3> -->
 <!--
 **PrashantGaikwad-iOS/PrashantGaikwad-iOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
