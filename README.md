@@ -12,7 +12,7 @@
 - 📫 How to reach me: Email - itsmeprashantg@gmail.com
 
 ### Details:
-
+</details>
 [website]: https://twitter.com/prashant160593
 [twitter]: https://twitter.com/prashant160593
 [youtube]: https://www.youtube.com/channel/UCdPBFWPvcWSEgZGPfUF9eyA
