@@ -14,7 +14,11 @@
 ### Details:
 </details>
 [website]: https://twitter.com/prashant160593
+
 [twitter]: https://twitter.com/prashant160593
+
 [youtube]: https://www.youtube.com/channel/UCdPBFWPvcWSEgZGPfUF9eyA
+
 [instagram]: https://www.instagram.com/prashant_iosdev/
+
 [linkedin]: https://in.linkedin.com/in/prashant-gaikwad-28840178?trk=people-guest_people_search-card
