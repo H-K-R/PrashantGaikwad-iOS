@@ -12,11 +12,8 @@
 - 📫 How to reach me: Email - itsmeprashantg@gmail.com
 
 ### Details:
-<details>
 
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=PrashantGaikwad-iOS&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://twitter.com/prashant160593
 [twitter]: https://twitter.com/prashant160593
