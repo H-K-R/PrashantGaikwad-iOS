@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on my Youtube Channel
 - 🤔 I’m looking for help with growing my Youtube channel 
 - 💬 Ask me about anything 😛
-- 📫 How to reach me: 
+- 📫 How to reach me: [YouTube Channel](https://www.youtube.com/channel/UCdPBFWPvcWSEgZGPfUF9eyA/featured?view_as=subscriber)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
