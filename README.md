@@ -22,7 +22,7 @@
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate with other content creators
 - 💬 Ask me about anything 😛
-- 🥅 Goals: Contribute more to Open Source projects
+- 🥅 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love long drives on my Royal Enfield
 - 🤔 I’m looking for help with growing my Youtube channel
 - 📫 How to reach me: Email - itsmeprashantg@gmail.com
