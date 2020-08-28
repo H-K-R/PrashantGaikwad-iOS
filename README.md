@@ -16,7 +16,7 @@
 </a>
 <br />
 
-## I'm a Brother, Developer, and part time Teacher!
+## I'm a Developer, and Teacher!
 
 - 🔭 I’m currently working on Swift and Java projects
 - 🌱 I’m currently learning Flutter
