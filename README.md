@@ -18,13 +18,11 @@
 
 ## I'm a Developer, and Teacher!
 
-- 🔭 I’m currently working on Swift and Java projects
-- 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate with other content creators
+- 🔭 I’m working on Swift and Java projects
+- 🌱 Currently learning Flutter
 - 💬 Ask me about anything 😛
 - 🥅 Goals: Contribute to Open Source projects
-- ⚡ Fun fact: I love long drives on my Royal Enfield
-- 🤔 I’m looking for help with growing my Youtube channel
+- ⚡ Fun fact: I love to go on long drives on my Royal Enfield
 - 📫 How to reach me: Email - itsmeprashantg@gmail.com
 
 ### Details:
